@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.81a03031.css",
+    "main.js": "/portofolio/static/js/main.ff203253.js",
+    "static/js/787.58f15db9.chunk.js": "/portofolio/static/js/787.58f15db9.chunk.js",
+    "static/media/Profile.png": "/portofolio/static/media/Profile.078949a5b8a81d991709.png",
+    "static/media/WISMA.png": "/portofolio/static/media/WISMA.f378d63eacac5c3dbbab.png",
+    "static/media/MTQMN.png": "/portofolio/static/media/MTQMN.d229f5dffa0e4b9e7295.png",
+    "static/media/KBMDSI.png": "/portofolio/static/media/KBMDSI.168025a9aa6c7c5bf353.png",
+    "static/media/Laravel.png": "/portofolio/static/media/Laravel.7ed7e4f3eb4af1c1a69a.png",
+    "static/media/React.png": "/portofolio/static/media/React.288b9a7ad3f6570d7f42.png",
+    "static/media/PHP.png": "/portofolio/static/media/PHP.4866b331c9767d0f33e6.png",
+    "static/media/Tailwind.png": "/portofolio/static/media/Tailwind.676e69ff9cbae26bf1c1.png",
+    "static/media/CSS.png": "/portofolio/static/media/CSS.04350a8d7c184d2202ad.png",
+    "static/media/MySQL.png": "/portofolio/static/media/MySQL.32555aa1cbe4919b4b4d.png",
+    "static/media/HTML.png": "/portofolio/static/media/HTML.859a3204bb74617bbba7.png",
+    "static/media/Figma.png": "/portofolio/static/media/Figma.fc9509c10295d1be2546.png",
+    "static/media/Bootstrap.png": "/portofolio/static/media/Bootstrap.e194bb2ff9d237edaf48.png",
+    "static/media/JS.png": "/portofolio/static/media/JS.83a58cacf30605f263a4.png",
+    "index.html": "/portofolio/index.html",
+    "main.81a03031.css.map": "/portofolio/static/css/main.81a03031.css.map",
+    "main.ff203253.js.map": "/portofolio/static/js/main.ff203253.js.map",
+    "787.58f15db9.chunk.js.map": "/portofolio/static/js/787.58f15db9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a03031.css",
+    "static/js/main.ff203253.js"
+  ]
+}
